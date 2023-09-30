@@ -82,7 +82,7 @@ I metodi get della classe sono i seguenti:
 
 
 ### Metodi per aggiungere valori alla lista
-Dopo i vari metodi get come getProfessore o getStudente che restituiscono il valore dei rispettivi variabili, abbiamo anche alcuni metodi per aggiungere valori alla lista.
+Dopo i vari metodi get come getProfessore o getStudente che restituiscono il valore delle rispettive variabili, abbiamo anche alcuni metodi per aggiungere valori alla lista.
 
 - “Metodo “aggiungiProfessore””: Questo metodo permette di aggiungere un professore alla lista dei professori della scuola. Richiede un oggetto “Professore” come argomento e lo aggiunge alla lista “professori”.
 - “Metodo “aggiungiStudente””: Questo metodo permette di aggiungere uno studente alla lista degli studenti iscritti alla scuola. Richiede un oggetto “Studente” come argomento e lo aggiunge alla lista “studenti”.

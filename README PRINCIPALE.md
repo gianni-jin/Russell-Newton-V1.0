@@ -43,20 +43,24 @@ Vorrei illustrare i passaggi da seguire per aprire questi programmi tramite Visu
 
 
 3. Ora dovrebbe riuscire a visualizzare una pagina simile a questa:
+4. 
 ![Pasted image 20230929093030](https://github.com/gianni-jin14/Russell-Newton-V1.0-in-Java/assets/129873947/dcda8f16-35bb-4480-b340-bcff33134969)
 
-4. Se i plugin necessari per decodificare il codice Java non sono già installati, Le verrà chiesto di farlo.
+5. Se i plugin necessari per decodificare il codice Java non sono già installati, Le verrà chiesto di farlo.
+6. 
 ![Pasted image 20230923200304](https://github.com/gianni-jin14/Russell-Newton-V1.0-in-Java/assets/129873947/8cc5097e-d744-490a-86fb-47415d2fcd9c)
 
 
-5. Successivamente, dovrà aprire la cartella "src" e selezionare il file denominato "Main.java", che contiene il metodo "main" utilizzato per avviare il programma.
+7. Successivamente, dovrà aprire la cartella "src" e selezionare il file denominato "Main.java", che contiene il metodo "main" utilizzato per avviare il programma.
 
 ![Pasted image 20230929093359](https://github.com/gianni-jin14/Russell-Newton-V1.0-in-Java/assets/129873947/8929fd49-bd5a-4cc4-b9d6-8ab6bc94aac9)
 
 6. Nel menu, selezioni "Esegui" "Run" e poi fai clic su "Esegui senza debug" o "Run Without Debugging".
+7. 
 ![Pasted image 20230929093419](https://github.com/gianni-jin14/Russell-Newton-V1.0-in-Java/assets/129873947/e059f91d-5dcc-4e0d-aa96-77227496a182)
 
-7. Il programma e' stato avviato con successo!
+8. Il programma e' stato avviato con successo!
+9. 
 ![Pasted image 20230929093445](https://github.com/gianni-jin14/Russell-Newton-V1.0-in-Java/assets/129873947/acbb5e6c-b13c-416e-a0f5-427dd7f7abdd)
 
 
@@ -65,17 +69,21 @@ Vorrei illustrare i passaggi da seguire per aprire questi programmi tramite Visu
 La procedura è molto simile, ma è necessario aver installato Java sul proprio computer in precedenza.
 
 1. Selezioni "File" e poi faccia clic su "Apri".
+
 ![Pasted image 20230925190324](https://github.com/gianni-jin14/Russell-Newton-V1.0-in-Java/assets/129873947/630163cb-82ce-497d-a97a-77106505de3e)
 
 
 2. Selezioni l'intera cartella che contiene il codice sorgente.
+
 ![Pasted image 20230929130913](https://github.com/gianni-jin14/Russell-Newton-V1.0-in-Java/assets/129873947/57af9564-1b85-4bc1-b870-ebadaff00366)
 
 
 3. Selezioni la classe Main nella cartella "src".
+
 ![Pasted image 20230925190557](https://github.com/gianni-jin14/Russell-Newton-V1.0-in-Java/assets/129873947/d5772923-3e63-4c62-a800-6ac3257fb437)
 
 4. Faccia clic sul pulsante verde nell'angolo superiore destro, ossia il pulsante "Esegui Main"/"Run Main".
+
 ![Pasted image 20230925190637](https://github.com/gianni-jin14/Russell-Newton-V1.0-in-Java/assets/129873947/8a022066-94e8-4778-a4db-480694ce229c)
 
 

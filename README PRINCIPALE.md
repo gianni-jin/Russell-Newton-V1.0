@@ -35,7 +35,7 @@ La mia modesta opinione è che sia preferibile utilizzare un IDE e aver la Java 
 
 Vorrei illustrare i passaggi da seguire per aprire questi programmi tramite Visual Studio Code:
 1. Faccia clic su "File" e poi su "Apri cartella"/"Open Folder".
-2. Aggiunga l'intera cartella contenente il codice sorgente nell'IDE (ad esempio selezionare l'intera cartella "ITS Prodigi V1.0")
+2. Aggiunga l'intera cartella contenente il codice sorgente nell'IDE (ad esempio selezionare l'intera cartella "ITS-Prodigi-V2.0-main")
 
 
 ![Pasted image 20230923200349](https://github.com/gianni-jin14/Russell-Newton-V1.0-in-Java/assets/129873947/9f9e637b-c53e-4b77-bd64-d7a30c7438d1)

@@ -24,8 +24,8 @@ Ho cercato anche di inserire commenti nei codici sorgenti dei tre progetti nel m
 # Come aprire questi programmi? 
 Si trattano di programmi basati sulla console. Pertanto, è necessario aprirli tramite un IDE, ossia un ambiente di sviluppo integrato, oppure tramite una riga di comando.
 
-Per entrambi i metodi, sarà probabilmente necessario installare Java sul proprio computer e scaricare prima di tutto l'intero progetto/cartella da Github.
-
+**Per entrambi i metodi, sarà probabilmente necessario installare Java sul proprio computer e scaricare prima di tutto l'intero progetto/cartella da Github.
+**
 Tuttavia, con Visual Studio Code potrebbe non essere necessario, poiché sono disponibili plugin predefiniti per decodificare il codice Java. Tra gli IDE più popolari per Java ci sono Visual Studio, Eclipse ed IntelliJ IDEA. 
 
 La mia modesta opinione è che sia preferibile utilizzare un IDE e aver la Java preinstallata sul PC, poiché non solo è più comodo, ma rende anche più semplice osservare le modifiche/aggiunte ai dati nei due file di testo (per il progetto "Prodigi V2.0").
@@ -43,15 +43,15 @@ Vorrei illustrare i passaggi da seguire per aprire questi programmi tramite Visu
 
 
 3. Ora dovrebbe riuscire a visualizzare una pagina simile a questa:
-4. 
+
 ![Pasted image 20230929093030](https://github.com/gianni-jin14/Russell-Newton-V1.0-in-Java/assets/129873947/dcda8f16-35bb-4480-b340-bcff33134969)
 
-5. Se i plugin necessari per decodificare il codice Java non sono già installati, Le verrà chiesto di farlo.
-6. 
+4. Se i plugin necessari per decodificare il codice Java non sono già installati, Le verrà chiesto di farlo.
+
 ![Pasted image 20230923200304](https://github.com/gianni-jin14/Russell-Newton-V1.0-in-Java/assets/129873947/8cc5097e-d744-490a-86fb-47415d2fcd9c)
 
 
-7. Successivamente, dovrà aprire la cartella "src" e selezionare il file denominato "Main.java", che contiene il metodo "main" utilizzato per avviare il programma.
+5. Successivamente, dovrà aprire la cartella "src" e selezionare il file denominato "Main.java", che contiene il metodo "main" utilizzato per avviare il programma.
 
 ![Pasted image 20230929093359](https://github.com/gianni-jin14/Russell-Newton-V1.0-in-Java/assets/129873947/8929fd49-bd5a-4cc4-b9d6-8ab6bc94aac9)
 

@@ -50,6 +50,7 @@ Vorrei illustrare i passaggi da seguire per aprire questi programmi tramite Visu
 
 
 5. Successivamente, dovrà aprire la cartella "src" e selezionare il file denominato "Main.java", che contiene il metodo "main" utilizzato per avviare il programma.
+
 ![Pasted image 20230929093359](https://github.com/gianni-jin14/Russell-Newton-V1.0-in-Java/assets/129873947/8929fd49-bd5a-4cc4-b9d6-8ab6bc94aac9)
 
 6. Nel menu, selezioni "Esegui" "Run" e poi fai clic su "Esegui senza debug" o "Run Without Debugging".

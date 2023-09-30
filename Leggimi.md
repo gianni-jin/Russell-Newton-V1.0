@@ -10,7 +10,7 @@ Per questo programma, non è richiesto all'utente di inserire input tramite tast
 
 Per personalizzare l'output (cioè i risultati visualizzati a schermo), è necessario apportare modifiche nella classe principale (Main) del programma. In altre parole, è necessario modificare il codice o gestire le operazioni nella classe Main.
 
-![[Pasted image 20230928204144.png]]
+![Pasted image 20230928204144](https://github.com/gianni-jin14/Russell-Newton-V1.0-in-Java/assets/129873947/40c90f56-8409-403f-a0f1-baf571f6046c)
 
 
 

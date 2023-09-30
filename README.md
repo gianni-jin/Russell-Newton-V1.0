@@ -101,7 +101,7 @@ Infine abbiamo alcuni metodi per aggiornare degli alcuni variabili dichiarati:
 ---
 
 
-# Studente
+# Classe Studente
 ## Sintesi
 La classe “Studente” rappresenta uno studente all'interno di un istituto scolastico, con informazioni personali come nome, classe e stato del pagamento delle tasse scolastiche. Fornisce metodi per impostare la classe, registrare il pagamento delle tasse e ottenere informazioni sullo studente.
 

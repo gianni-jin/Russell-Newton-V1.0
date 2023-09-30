@@ -48,7 +48,7 @@ public class Studente {
      *
      * @return L'ID dello studente.
      */
-    public int getId_studente() {
+    public int getIdStudente() {
         return this.idStudente;
     }
 
@@ -103,6 +103,6 @@ public class Studente {
      * @return Una stringa con il nome dello studente e l'importo delle tasse pagate.
      */
     public String toString() {
-        return this.nomeStudente + " ha pagato finora " + this.tasseScolastichePagate + " € di tasse scolastiche.";
+        return this.nomeStudente + " ha pagato " + this.tasseScolastichePagate + " € di tasse scolastiche.";
     }
 }

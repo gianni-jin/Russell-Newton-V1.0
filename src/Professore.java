@@ -4,21 +4,21 @@
 public class Professore {
     private int idProf;         // L'ID univoco del professore.
     private String nomeProf;    // Il nome del professore.
-    public static int ral;       // Lo stipendio fisso per tutti i professori.
-    public static int ralGuadagnata; // L'ammontare totale guadagnato da tutti i professori.
+    public int ral;       // Lo stipendio dei professori.
+    public int ralTotale; // L'ammontare totale guadagnato da tutti i professori.
 
     /**
      * Costruttore della classe Professore.
      *
      * @param idProf   L'ID univoco del professore.
      * @param nomeProf Il nome del professore.
-     * @param ral      Lo stipendio fisso per tutti i professori.
+     * @param ral      Lo stipendio fisso per il professore specifico.
      */
     public Professore(int idProf, String nomeProf, int ral) {
         this.idProf = idProf;
         this.nomeProf = nomeProf;
-        Professore.ral = ral;
-        ralGuadagnata = 0;
+        this.ral = ral;
+        ralTotale = 0;
     }
 
     /**
@@ -53,8 +53,8 @@ public class Professore {
      *
      * @param ral Il nuovo stipendio fisso da impostare.
      */
-    public void setSalary(int ral) {
-        Professore.ral = ral;
+    public void setRal(int ral) {
+        this.ral = ral;
     }
 
     /**
@@ -63,7 +63,7 @@ public class Professore {
      * @param ral Lo stipendio da pagare al professore.
      */
     public void paghiSalario(int ral) {
-        ralGuadagnata += ral;
+        ralTotale += ral;
         Scuola.aggiorniCostiTotali(ral);
     }
 
@@ -73,6 +73,6 @@ public class Professore {
      * @return Una stringa rappresentante il nome del professore e l'ammontare totale guadagnato.
      */
     public String toString() {
-        return "Nome del professore o della professoressa: " + this.nomeProf + " Totale stipendio guadagnato finora €" + ralGuadagnata;
+        return "Nome del professore o della professoressa: " + this.nomeProf + "ha stipendio guadagnato  €" + ralTotale;
     }
 }

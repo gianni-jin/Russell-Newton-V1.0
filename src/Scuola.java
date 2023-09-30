@@ -1,7 +1,3 @@
-
-
-import java.io.PrintStream;
-import java.util.ArrayList;
 import java.util.List;
 
 /**
@@ -45,7 +41,7 @@ public class Scuola {
      *
      * @param professore Il professore da aggiungere.
      */
-    public void addProfessore(Professore professore) {
+    public void aggiungiProfessore(Professore professore) {
         this.professori.add(professore);
     }
 
@@ -63,7 +59,7 @@ public class Scuola {
      *
      * @param student Lo studente da aggiungere.
      */
-    public void addStudente(Studente student) {
+    public void aggiungiStudente(Studente student) {
         this.studenti.add(student);
     }
 

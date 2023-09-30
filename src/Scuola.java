@@ -9,7 +9,7 @@ public class Scuola {
     private List<Studente> studenti;      // Lista degli studenti iscritti alla scuola.
     private static int incassiTotali;     // L'ammontare totale degli incassi della scuola.
     private static int costiTotali;       // L'ammontare totale dei costi della scuola.
-    private static int finanziamento;      // Il finanziamento fornito dalla scuola.
+    private static int finanziamento;      // Il finanziamento fornito alla scuola.
     private static int bilancio;           // Il bilancio totale della scuola.
 
     /**

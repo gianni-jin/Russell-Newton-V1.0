@@ -24,8 +24,8 @@ Ho cercato anche di inserire commenti nei codici sorgenti dei tre progetti nel m
 # Come aprire questi programmi? 
 Si trattano di programmi basati sulla console. Pertanto, è necessario aprirli tramite un IDE, ossia un ambiente di sviluppo integrato, oppure tramite una riga di comando.
 
-**Per entrambi i metodi, sarà probabilmente necessario installare Java sul proprio computer e scaricare prima di tutto l'intero progetto/cartella da Github.
-**
+**Per entrambi i metodi, sarà probabilmente necessario installare Java sul proprio computer e scaricare prima di tutto l'intero progetto/cartella da Github.**
+
 Tuttavia, con Visual Studio Code potrebbe non essere necessario, poiché sono disponibili plugin predefiniti per decodificare il codice Java. Tra gli IDE più popolari per Java ci sono Visual Studio, Eclipse ed IntelliJ IDEA. 
 
 La mia modesta opinione è che sia preferibile utilizzare un IDE e aver la Java preinstallata sul PC, poiché non solo è più comodo, ma rende anche più semplice osservare le modifiche/aggiunte ai dati nei due file di testo (per il progetto "Prodigi V2.0").

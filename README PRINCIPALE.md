@@ -56,11 +56,11 @@ Vorrei illustrare i passaggi da seguire per aprire questi programmi tramite Visu
 ![Pasted image 20230929093359](https://github.com/gianni-jin14/Russell-Newton-V1.0-in-Java/assets/129873947/8929fd49-bd5a-4cc4-b9d6-8ab6bc94aac9)
 
 6. Nel menu, selezioni "Esegui" "Run" e poi fai clic su "Esegui senza debug" o "Run Without Debugging".
-7. 
+
 ![Pasted image 20230929093419](https://github.com/gianni-jin14/Russell-Newton-V1.0-in-Java/assets/129873947/e059f91d-5dcc-4e0d-aa96-77227496a182)
 
-8. Il programma e' stato avviato con successo!
-9. 
+7. Il programma e' stato avviato con successo!
+
 ![Pasted image 20230929093445](https://github.com/gianni-jin14/Russell-Newton-V1.0-in-Java/assets/129873947/acbb5e6c-b13c-416e-a0f5-427dd7f7abdd)
 
 

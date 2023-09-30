@@ -162,18 +162,18 @@ La classe “Professore” rappresenta un professore o una professoressa in una 
 ## Variabili
 Le variabili della classe Professore sono le seguenti:
 
-“idProf”, “nomeProf”, “ral” e “ralGuadagnata”” sono variabili di istanza e variabili statiche che rappresentano le informazioni relative al professore. 
+“idProf”, “nomeProf”, “ral” e “ralTotale”” sono variabili di istanza e variabili statiche che rappresentano le informazioni relative al professore. 
 In particolare:
 - “idProf” è un intero che rappresenta l'ID univoco del professore.
 -  “nomeProf” è una stringa che rappresenta il nome del professore.
 - “ral” è una variabile statica che rappresenta lo stipendio per i professori.
-- “ralGuadagnata” è una variabile che rappresenta l'ammontare totale guadagnato dai professori.
+- “ralTotale” è una variabile che rappresenta l'ammontare totale guadagnato dai professori.
 
 
 ---
 
 ## Costruttore
-Per quanto riguarda il costruttore, il costruttore “Professore” accetta tre argomenti: “idProf”, “nomeProf”, e “ral”. Quando viene creato un oggetto “Professore”, il costruttore inizializza le variabili “idProf” e “nomeProf” con i valori forniti. Inoltre, inizializza la variabile “ral” (stipendio fisso per tutti i professori) con il valore fornito e inizializza “ralGuadagnata” a 0.
+Per quanto riguarda il costruttore, il costruttore “Professore” accetta tre argomenti: “idProf”, “nomeProf”, e “ral”. Quando viene creato un oggetto “Professore”, il costruttore inizializza le variabili “idProf” e “nomeProf” con i valori forniti. Inoltre, inizializza la variabile “ral” (stipendio fisso per tutti i professori) con il valore fornito e inizializza “ralTotale” a 0.
 
 ---
 ## Metodi
@@ -192,7 +192,7 @@ Successivamente, il metodo “setRal” permette di impostare un nuovo stipendio
 ### Alcuni metodi particolari
 Infine, abbiamo alcuni metodi particolari:
 
-Il metodo “paghiSalario" registra il pagamento dello stipendio al professore e aggiorna l'ammontare totale dei costi della scuola (“ralGuadagnata” e “costiTotali” della classe “Scuola”). Richiede un importo “ral” come argomento e lo aggiunge all'importo totale guadagnato da tutti i professori (“ralGuadagnata”). Inoltre, chiama il metodo “aggiorniCostiTotali” della classe “Scuola” per aggiornare i costi totali della scuola con l'importo dello stipendio pagato.
+Il metodo “paghiSalario" registra il pagamento dello stipendio al professore e aggiorna l'ammontare totale dei costi della scuola (“ralTotale” e “costiTotali” della classe “Scuola”). Richiede un importo “ral” come argomento e lo aggiunge all'importo totale guadagnato da tutti i professori (“ralTotale”). Inoltre, chiama il metodo “aggiorniCostiTotali” della classe “Scuola” per aggiornare i costi totali della scuola con l'importo dello stipendio pagato.
 
 Il metodo “toString" restituisce una rappresentazione testuale del professore, includendo il nome del professore e l'ammontare totale guadagnato. È utile per la visualizzazione dei dettagli del professore.
 

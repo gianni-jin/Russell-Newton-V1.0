@@ -131,9 +131,9 @@ Il costruttore “Studente”” accetta tre argomenti: “idStudente”, “nom
 ## Metodi
 
 ### Metodi get per restituire valori delle variabili
-Metodi di accesso della classe sono “getId_studente”, “getNomeStudente”, “getClasse”, “getTasseScolastichePagate”, “getTasseScolasticheDovute”, e “getTasseDovuteRimanenti”
+Metodi di accesso della classe sono “getIdStudente”, “getNomeStudente”, “getClasse”, “getTasseScolastichePagate”, “getTasseScolasticheDovute”, e “getTasseDovuteRimanenti”
 
-Questi metodi permettono di ottenere i valori delle variabili private dello studente. Ad esempio, “getId_studente” restituisce l'ID dello studente.
+Questi metodi permettono di ottenere i valori delle variabili private dello studente. Ad esempio, “getIdStudente” restituisce l'ID dello studente.
 
 ---
 

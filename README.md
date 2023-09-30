@@ -111,8 +111,8 @@ La classe “Studente” rappresenta uno studente all'interno di un istituto sco
 I variabili della classe Studente sono “idStudente”, “nomeStudente”, “classe”, “tasseScolastichePagate”, e “tasseScolasticheDovute””
 Queste sono variabili di istanza che rappresentano le informazioni personali di uno studente. In particolare:
 - “idStudente” è un intero che rappresenta l'ID univoco dello studente.
-- nomeStudente” è una stringa che rappresenta il nome dello studente.
-- classe” è una stringa che rappresenta la classe di appartenenza dello studente.
+- “nomeStudente” è una stringa che rappresenta il nome dello studente.
+- “classe” è una stringa che rappresenta la classe di appartenenza dello studente.
 - “tasseScolastichePagate” è un intero che rappresenta l'importo delle tasse scolastiche già pagate dallo studente.
 - “tasseScolasticheDovute” è un intero che rappresenta l'importo totale delle tasse scolastiche dovute dallo studente.
 

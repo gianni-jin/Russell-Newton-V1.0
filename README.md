@@ -186,7 +186,7 @@ Questi metodi permettono di ottenere i valori delle variabili private del profes
 
 ### Metodo set per impostare il valori della variabili
 
-Successivamente, il metodo “setSalary” permette di impostare un nuovo stipendio fisso (“ral”) per tutti i professori. Modifica la variabile “ral” con il nuovo valore fornito.
+Successivamente, il metodo “setRal” permette di impostare un nuovo stipendio fisso (“ral”) per tutti i professori. Modifica la variabile “ral” con il nuovo valore fornito.
 
 ---
 ### Alcuni metodi particolari

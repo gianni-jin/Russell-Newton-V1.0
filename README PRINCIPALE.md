@@ -17,19 +17,18 @@ Questi tre progetti rappresentano i risultati del mio impegno in questi ultimi m
 
 Spero che questi tre progetti possano offrire una visione più chiara della mia passione per la programmazione, della mia forte motivazione a essere ammesso nel Suo istituto e della mia determinazione a diventare un programmatore nel futuro.
 
-Poiché il nostro colloquio dovrebbe essere principalmente di natura motivazionale, ho pensato di illustrare le funzionalità, i componenti e le logiche di sviluppo di ciascun programma attraverso i tre file separati che troverà insieme a questo. Tuttavia, in questo file è presente una semplice spiegazione su come aprire ed eseguire questi programmi/progetti.
+Poiché il nostro colloquio dovrebbe essere principalmente di natura motivazionale, ho pensato di illustrare le funzionalità, i componenti e le logiche di sviluppo di ciascun programma nel file "README.md" di ogni progetto. Tuttavia, in questo file è presente una semplice spiegazione su come aprire ed eseguire questi programmi/progetti.
 
+Ho cercato anche di inserire commenti nei codici sorgenti dei tre progetti nel modo più dettagliato possibile.
 
 # Come aprire questi programmi? 
 Si trattano di programmi basati sulla console. Pertanto, è necessario aprirli tramite un IDE, ossia un ambiente di sviluppo integrato, oppure tramite una riga di comando.
 
-Per entrambi i metodi, sarà probabilmente necessario installare Java sul proprio computer. Tuttavia, con Visual Studio Code potrebbe non essere necessario, poiché sono disponibili plugin predefiniti per decodificare il codice Java. Tra gli IDE più popolari per Java ci sono Visual Studio, Eclipse ed IntelliJ IDEA. 
+Per entrambi i metodi, sarà probabilmente necessario installare Java sul proprio computer e scaricare prima di tutto l'intero progetto/cartella da Github.
+
+Tuttavia, con Visual Studio Code potrebbe non essere necessario, poiché sono disponibili plugin predefiniti per decodificare il codice Java. Tra gli IDE più popolari per Java ci sono Visual Studio, Eclipse ed IntelliJ IDEA. 
 
 La mia modesta opinione è che sia preferibile utilizzare un IDE e aver la Java preinstallata sul PC, poiché non solo è più comodo, ma rende anche più semplice osservare le modifiche/aggiunte ai dati nei due file di testo (per il progetto "Prodigi V2.0").
-
-
-
-
 
 
 ## Procedura dettagliata per aprire il programma con Visual Studio Code
@@ -47,17 +46,17 @@ Vorrei illustrare i passaggi da seguire per aprire questi programmi tramite Visu
 ![Pasted image 20230929093030](https://github.com/gianni-jin14/Russell-Newton-V1.0-in-Java/assets/129873947/dcda8f16-35bb-4480-b340-bcff33134969)
 
 4. Se i plugin necessari per decodificare il codice Java non sono già installati, Le verrà chiesto di farlo.
-![[Pasted image 20230923200304.png]]
+![Pasted image 20230923200304](https://github.com/gianni-jin14/Russell-Newton-V1.0-in-Java/assets/129873947/8cc5097e-d744-490a-86fb-47415d2fcd9c)
 
 
 5. Successivamente, dovrà aprire la cartella "src" e selezionare il file denominato "Main.java", che contiene il metodo "main" utilizzato per avviare il programma.
-![[Pasted image 20230929093359.png]]
+![Pasted image 20230929093359](https://github.com/gianni-jin14/Russell-Newton-V1.0-in-Java/assets/129873947/8929fd49-bd5a-4cc4-b9d6-8ab6bc94aac9)
 
 6. Nel menu, selezioni "Esegui" "Run" e poi fai clic su "Esegui senza debug" o "Run Without Debugging".
-![[Pasted image 20230929093419.png]]
+![Pasted image 20230929093419](https://github.com/gianni-jin14/Russell-Newton-V1.0-in-Java/assets/129873947/e059f91d-5dcc-4e0d-aa96-77227496a182)
 
 7. Il programma e' stato avviato con successo!
-![[Pasted image 20230929093445.png]]
+![Pasted image 20230929093445](https://github.com/gianni-jin14/Russell-Newton-V1.0-in-Java/assets/129873947/acbb5e6c-b13c-416e-a0f5-427dd7f7abdd)
 
 
 ---
@@ -65,21 +64,21 @@ Vorrei illustrare i passaggi da seguire per aprire questi programmi tramite Visu
 La procedura è molto simile, ma è necessario aver installato Java sul proprio computer in precedenza.
 
 1. Selezioni "File" e poi faccia clic su "Apri".
-![[Pasted image 20230925190324.png]]
+![Pasted image 20230925190324](https://github.com/gianni-jin14/Russell-Newton-V1.0-in-Java/assets/129873947/630163cb-82ce-497d-a97a-77106505de3e)
 
 
 2. Selezioni l'intera cartella che contiene il codice sorgente.
-![[Pasted image 20230929130913.png]]
+![Pasted image 20230929130913](https://github.com/gianni-jin14/Russell-Newton-V1.0-in-Java/assets/129873947/57af9564-1b85-4bc1-b870-ebadaff00366)
 
 
 3. Selezioni la classe Main nella cartella "src".
-![[Pasted image 20230925190557.png]]
+![Pasted image 20230925190557](https://github.com/gianni-jin14/Russell-Newton-V1.0-in-Java/assets/129873947/d5772923-3e63-4c62-a800-6ac3257fb437)
 
 4. Faccia clic sul pulsante verde nell'angolo superiore destro, ossia il pulsante "Esegui Main"/"Run Main".
-![[Pasted image 20230925190637.png]]
+![Pasted image 20230925190637](https://github.com/gianni-jin14/Russell-Newton-V1.0-in-Java/assets/129873947/8a022066-94e8-4778-a4db-480694ce229c)
 
 
-![[Pasted image 20230925190725.png]]
+![Pasted image 20230925190725](https://github.com/gianni-jin14/Russell-Newton-V1.0-in-Java/assets/129873947/a826c78d-cc59-4658-9750-031e6a9eb61b)
 
 Questi procedimenti sono validi anche per aprire gli altri progetti inviati.
 
